@@ -1,0 +1,117 @@
+body {
+  background-color: #b2bebf;
+}
+
+.navbar2 {
+  background-color: #bd2a2e !important;
+  padding-top: 10px;
+  padding-bottom: 15px;
+}
+
+.logo {
+  width: 85px;
+}
+
+.nav-link {
+  color: white !important;
+  font-size: 20px;
+}
+
+.btn-accion {
+  color: white;
+  background-color: #bd2a2e;
+  border: solid #bd2a2e 3px;
+  border-radius: 12px;
+  font-weight: bolder;
+  margin-top: 20px;
+  margin-left: 20px;
+}
+
+.btn-accion:hover {
+  color: #bd2a2e;
+  background-color: white;
+  border: solid #bd2a2e 3px;
+}
+
+.btn-enviar {
+  color: white;
+  background-color: #bd2a2e;
+  border: solid #bd2a2e 3px;
+  border-radius: 12px;
+  font-weight: bolder;
+}
+
+.btn-enviar:hover {
+  color: #bd2a2e;
+  background-color: white;
+  border: solid #bd2a2e 3px;
+}
+
+.form-input {
+  margin-top: 15px;
+}
+
+.table-inventario {
+  width: 90%;
+  margin-top: 20px;
+  margin-left: 5%;
+  border-radius: 15px;
+}
+
+.table-inventario thead th {
+  color: white;
+  background-color: #bd2a2e;
+  border-bottom: 3px solid #3b3936;
+  font-weight: bold;
+  padding: 10px;
+  text-align: center;
+}
+
+.table-inventario tbody td {
+  padding: 10px;
+  border-bottom: 1px solid #ccc;
+  background-color: white;
+  text-align: center;
+}
+
+.btn-eliminar:hover {
+  border-bottom: solid 3px #bd2a2e !important;
+  scale: 1.2;
+}
+.btn-eliminar svg:hover {
+  color: #bd2a2e;
+}
+
+.btn-actualizar:hover {
+  border-bottom: solid 3px #2a6abd !important;
+  scale: 1.2;
+}
+
+.btn-actualizar svg:hover {
+  color: #2a6abd;
+}
+
+.formulario-ventas{
+  width: 30%;
+  margin-top: 25px !important;
+  margin-left: 35%;
+  background-color: white;
+  padding: 15px;
+  border-radius: 15px;
+}
+
+.btn-comprar {
+  color: white;
+  background-color: #bd2a2e;
+  border: solid #bd2a2e 3px;
+  border-radius: 12px;
+  font-weight: bolder;
+  margin-top: 10px;
+  margin-left: 35%;
+}
+
+.btn-comprar:hover {
+  color: #bd2a2e;
+  background-color: white;
+  border: solid #bd2a2e 3px;
+}
